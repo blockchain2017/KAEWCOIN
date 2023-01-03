@@ -31,8 +31,8 @@ Enjoy regular profits You rewards are generated daily until the date lock stake 
 
 📄 Whitepaper : https://docs.kaew.io
 
-👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/ALICOIN88
+👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/KAEWCOIN
 
-👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/+NAPQONzARiY5OTM1
+👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/Kaewcoinofficial
 
 🔒 Smart Contract : https://bscscan.com/token/0xadf19103bd92afd28723a5b7542516fe19b4ac18
