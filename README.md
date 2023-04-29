@@ -4,7 +4,6 @@
 </div>
 <div align="center">
   <h1><br />
-    <a href="https://www.kaew.io/" target="_blank">Go To Website<br />
     </a></h1>
 </div>
 
@@ -27,12 +26,9 @@ Enjoy regular profits You rewards are generated daily until the date lock stake 
 
 # Contact Kaew Coin (KAEW)
 
-⭕ Website: https://www.kaew.io
-
 📄 Whitepaper : https://docs.kaew.io
 
 👨🏿‍🤝‍👨🏿Twitter : https://twitter.com/KAEWCOIN
 
 👨🏿‍🤝‍👨🏿Telegram Group : https://t.me/Kaewcoinofficial
 
-🔒 Smart Contract : https://bscscan.com/token/0xadf19103bd92afd28723a5b7542516fe19b4ac18
